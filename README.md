@@ -1,4 +1,4 @@
 # first_repo
 This is just a trial
 <br />
-Author-Deepanshu singh
+Author-Deepanshu singh (IT student)
